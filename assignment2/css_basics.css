@@ -1,0 +1,90 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+}
+
+header, footer {
+    background-color: lightskyblue;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    width: 90%;
+    border: 5px solid black;
+}
+
+#main-title {
+    color: navy;
+}
+
+.cat-description, .cat-paragraph {
+    color: #4B0082;
+    font: italic normal bold 16px Arial, sans-serif;
+}
+
+nav {
+    background-color: paleturquoise;
+    width: 30%;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #800080;
+}
+
+section {
+    background-color: #E6E6FA;
+    padding: 20px;
+    width: 50%;
+    margin: 10px 20px 15px 5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    font-size: 200%;
+
+}
+a:link {
+  color: lightcoral;
+}
+
+a:visited {
+    color: lightslategray;
+  }
+
+P {
+    font-size: 200%;
+    line-height: 10%;
+    padding: 20px
+}
+
+body {
+    background-image: url('pixel.jpg'); /* I felt like adding a background! */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#main-title {
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+img[alt~="cat"] {
+    border: 4px solid white;
+}
