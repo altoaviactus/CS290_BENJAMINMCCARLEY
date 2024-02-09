@@ -1,0 +1,207 @@
+* {
+    box-sizing: border-box;
+}
+@keyframes movingbackground {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+body {
+    font-family: 'Arial', sans-serif;
+    animation: movingbackground 45s ease infinite;
+    background-image: url('IMG_0796.jpg'); /* I felt like adding a background! */
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.overflow-example {
+    display: inline-block;
+    width: 700px;
+    position: relative;
+    height: 80px;
+    overflow: auto; /* Adds scrollbars if content overflows */
+    margin-top: 20px; /* Just for spacing */
+    margin-bottom: 40px;
+    background-color: #ccac92;
+    z-index: 15;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 2px solid rgb(78, 41, 20);
+}
+.container {
+    text-align: center;
+  }
+#main-title {
+    background-color: #B3835B;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+    border: 5px solid black;
+    font-family: Arial, sans-serif;
+}
+/* Clearfix applied to a parent container */
+img {
+    max-width: 120%;
+    height: auto;
+    border: 2px solid rgb(78, 41, 20);
+}
+
+
+.background-section {
+    background-color: rgb(124, 82, 48);
+    background-size: cover;
+    height: 200px;
+}
+.vertical-nav li {
+    display: block;
+}
+
+/* Horizontal Navigation */
+.horizontal-nav {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+.horizontal-nav li {
+    margin-right: 20px; /* Spacing between items */
+}
+
+
+.float-example {
+    position: relative;
+    z-index: 15;
+    float: left;
+    width: 600px;
+    height: 120px;
+    background-color: #755d49;
+    border: 2px solid rgb(78, 41, 20);
+    margin-right: 5%;
+}
+
+.clearfix {
+    display: inline-block;
+    max-width: 50%;
+    clear: both;
+    background-color: #755d49;
+    border: 2px solid rgb(78, 41, 20);
+}
+
+.positioned-element {
+    position: absolute;
+    top: 21px;
+    left: 8px;
+    z-index: 10;
+    width:200px;
+    height:200px;
+    border: 5px solid black;
+    border-right: 0px;
+    padding: 5px;
+    background-image: url('IMG_7762.jpg');
+    background-size: cover;
+
+}
+.element {
+    position: relative;
+}
+.positioned-element2 {
+    position: absolute;
+    top: 30%;
+    right: 19%;
+    z-index: 10;
+    width:225px;
+    height:265px;
+    border: 5px solid black;
+    padding: 50px;
+    background-image: url('IMG_7764.jpg');
+    background-size: cover;
+
+}
+.element {
+    position: relative;
+}
+.positioned-element3 {
+    position: absolute;
+    top: 66%;
+    left: 2%;
+    z-index: 10;
+    width:360px;
+    height:360px;
+    border: 5px solid black;
+    padding: 50px;
+    background-image: url('IMG_1509.PNG');
+    background-size: cover;
+
+}
+
+.element::after {
+    content: ''; /* Essential for the pseudo-element to display */
+    position: absolute;
+    top: -871px;
+    left: 195px;
+    width: 5px;
+    height: 137px; /* Example height */
+    background-color: rgb(0, 0, 0); /* Example color */
+    z-index: 11;
+}
+.fixed-width {
+    width: 960px;
+    background-color: rgb(139, 118, 78);
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.fluid-layout {
+    width: 100%;
+    background-color: rgb(184, 149, 111);
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.horizontal-nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.horizontal-nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.search-box input[type="search"] {
+    padding: 5px;
+}
+
+.search-box button {
+    padding: 5px;
+}
+
+/* Responsive layout adjustments */
+@media (max-width: 600px) {
+    .fixed-width, .fluid-layout {
+        width: auto;
+    }
+}
