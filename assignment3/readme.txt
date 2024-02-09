@@ -1,0 +1,3 @@
+This is a simple webpage, you'll see in my code though I overcomplicated a lot of it. There was probably better ways to do everything. I got a little pressed with time, especially after my results after the doctor today. I'm sorry to be turning it 
+in half finished, but it does contain everything it needs for the assignment, the checklist I used is as follows.background color, background image, overflow, box sizing, vendor prefix properties, float, inheritance, 
+clear, collapsed containers (clearfix and overflow), position, z-index, display, fixed-width layout, fluid layout, and responsive layout, @media query, viewport, navigation list vertical and horizontal, breadcrumbs, drop down menu, sitemap, search boxes
