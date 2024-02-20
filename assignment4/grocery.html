@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+
+
+    <title>Grocery List</title>
+    <link rel="stylesheet" href="grocery.css">
+</head>
+
+<body>
+
+    <h1>Grocery List</h1>
+    <p id="dateTime"></p>
+    <input type="text" id="itemName" placeholder="Enter an item">
+    <input type="number" id="itemAmount" placeholder="Amount" min="1" value="1">
+    <select id="itemPriority">
+
+        <option value="High">high need</option>
+
+        <option value="Medium" selected>medium need</option>
+
+        <option value="Low">low need</option>
+
+
+    </select>
+    <button onclick="addItem()">add item</button>
+
+    <div id="items"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="grocery.js"></script>
+</body>
+</html>

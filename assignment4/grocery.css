@@ -1,0 +1,26 @@
+
+#items {
+     margin-top: 20px; 
+     background: rgba(255, 255, 255, 0.9);
+     width: max-content;
+     
+}
+
+@keyframes gradientBackground {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  body {
+    background: linear-gradient(-45deg, #9728ca, #e73c7e, #23a6d5, #db871a);
+    background-size: 400% 400%;
+    animation: gradientBackground 15s ease infinite;
+    color: #fff;
+  }
