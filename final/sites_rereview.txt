@@ -1,0 +1,36 @@
+# CS290_BENJAMINMCCARLEY
+Class repo for cs290
+
+5 websites that I like or dislike
+1. Moodle. This one has been bothering me ever since I started this new term, did they really have to change the whole layout? Whenever I go back, it takes me to a list of ALL courses available
+   in the entire school. That is pretty unecessary in the first place, or needs to have its own category. Plus the yellow at the top looks horrible and is a pain on the eyes. Even with its new
+   coat of paint, it feels outdated. Not having the messages auto fold to the side when you click away is an example of that, and having a super tiny x to click it at the top makes for an
+   unpleasant way to close it that feels like it ruins my effeciency, especially with someone like me who is legally blind! https://moodle.linnbenton.edu/ WOULD IMPROVE BY HIDING THE ALL COURSES
+   LIST INTO A SEPERATE SECTION.
+update: Still is quite frustrating to use, but after some time I've learned to navigate it easily. Still is very easy to click on the wrong thing and get transported to a different dimension, 
+        but I have gotten good at avoiding that. I like that it tells you if you've viewed something or have submitted, it makes it a lot easier on the user. 
+   
+2. Temu. We've all seen the stupid ads, but have you ever actually checked out the website? I feel like just looking at it rots part of my brain away. Constant fake sales, random timers on everything
+   that hold no meaning, tons of unrelated stuff and everything in your face to pressure you to buy immediately. https://www.temu.com/ WOULD IMPROVE BY NOT HAVING A BUNCH OF RANDOM STUFF ON THE FRONT
+   PAGE, AND SIMPLIFYING THE UI.
+update: I think this website has gotten worse actually. You could probably go into the source code, close your eyes, delete 90% of what is there and end up with a better website.
+   
+3. Any simple website or news website that forces you to log in for. I won't mention them having you close your adblocker because I get that its a source of revenue, but making me only be able to use
+   the site if I create an account is horrible. Just so you can send me spam emails later? I hate that practice. Somewhat of an example is quora, which makes you sign in or make an account if you look
+   at more than one question. https://www.quora.com/ WOULD IMPROVE BY NOT MAKING YOU MAKE AN ACCOUNT
+update: I understand this a bit better. It definitely can also help to review statistics, instead of having tons of random bots on your websites, you can see more of what people are doing on your websites.
+        However, as I was helping my grandma last Friday, I came to the horrible realization that she had 28 different passwords across a slew of websites. Surely some of them do not need it, like every 
+        news website asks for an account, and a 3 dollar a month subscription now.
+
+
+4. Amazon. I know you've talked about this before, but I feel I should weigh in on it. It's very give and take. There are a million settings and options that frankly shouldn't exist or should be hidden
+   away instead of at the front of the website. Their login style is atrocious and feels pretty outdated. Using it on mobile for some reason it will just kill the pages you're looking at and you'll have
+   to re-search for the items. Very frustrating. https://www.amazon.com/ WOULD IMPROVE BY CONDENSING THE SETTINGS AVAILABLE INTO A MORE COHESIVE MENU
+update: Its okay. I've learned it would probably be near impossible to fix it at this point, and they're doing the best with what they can. The only options they have left for such an insane database would
+        probably be starting from scratch.
+   
+5. Humble bundle. By far one of the easiest, best sites to use. Not only is everything for charity, and it has the undisputed best coding software bundles I have ever seen, but everything is simplified
+   so much on it. You don't even have to make an account to PURCHASE something, which is pretty unheard of. It labels everything nice and neat and easy to access, and I have never experienced any issues
+   with it. If you've never looked at it, take a peek! The coding bundles on it are amazing for programmers starting out. https://www.humblebundle.com/ WOULD IMPROVE BY IMRPOVING THE LOAD TIMES FOR THE
+   SITE.
+update: Aw yeah, I love this website. Still do, and I think some of the load times are improved actually. The interface, the ui, nothing is in your face, and it is perfectly balanced. 
