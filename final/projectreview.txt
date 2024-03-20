@@ -1,0 +1,28 @@
+Project 1:
+Not horrible I don't think. We didn't learn anything about styling, and I made it work as best as I could. I like 
+how old school it looks, its simple and concise. Unfortunately it also has TONS of random garbage, I know its what
+the project asked for, but it is still quite ugly.
+
+Project 2:
+Stylistically, this one is beautiful. I love the colors, the background, but these font size choices and random broken
+dropdown menu definitely make it feel like a starter project for learning css. I would improve this with some better text,
+improved fonts and font sizes, and centering everything
+
+Project 3:
+Gorgeous. The peak of my work stylistically. I tried a bunch of new stuff, failed at it, then tried it again. It literally 
+only works in a 1920x1080 resolution, but when it works I am so proud of it. The most work I have put in one of these projects
+besides the final. I would however fix the weird resolution things if I did this again.
+
+Project 4:
+Simple, elegant, and pretty underwhelming. It does one single job, but it does it pretty well. I like the gradient background,
+but it doesn't match the text at all. If I did this again, I'd do a more minimalistic background, with the subject data bigger
+and pulled to the center.
+
+Project 5:
+Its as you said, pretty basic but gets the job done. Barebones server programming, and it somehow works, with a few images thrown
+in for fun. If I redid this, I would make it look better, change the font, and add more pictures.
+
+FINAL:
+I put my heart and soul into this one, but time spent doesn't mean it is without flaw. I wish I added more to the guestbook section,
+and I tried really really hard to get something saved that people could add memories of muffin too, but I was having so many errors
+I scrapped the whole thing. I really like how it ended up looking though, and overall have been the happiest with this project out of any.
